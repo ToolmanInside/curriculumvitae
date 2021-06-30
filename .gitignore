@@ -1,0 +1,6 @@
+*.aux
+*.swp
+*.un~
+*.log
+*.synctex.gz
+*.synctex
